@@ -1,10 +1,10 @@
 #!/bin/bash
 
-echo Start installing .editorconfig...
+echo Start installing .prettierrc...
 
-rm -rf .editorconfig
+rm -rf .prettierrc
 git clone https://github.com/FishPlusOrange/basis.git .temp
-cp -r .temp/editorconfig/.editorconfig ./
+cp -r .temp/prettierrc/.prettierrc ./
 rm -rf .temp
 
 echo Finish installing.

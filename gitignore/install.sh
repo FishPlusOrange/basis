@@ -1,4 +1,5 @@
 #!/bin/bash
+
 echo Start installing .gitignore...
 
 rm -rf .gitignore
