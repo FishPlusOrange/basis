@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo Start installing .npmrc...
+echo Start installing...
 
 rm -rf .npmrc
 git clone https://github.com/FishPlusOrange/basis.git .temp

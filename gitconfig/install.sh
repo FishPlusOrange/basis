@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo Start installing .gitconfig...
+echo Start installing...
 
 rm -rf ~/.temp ~/.gitconfig
 git clone https://github.com/FishPlusOrange/basis.git ~/.temp

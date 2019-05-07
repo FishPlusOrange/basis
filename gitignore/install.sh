@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo Start installing .gitignore...
+echo Start installing...
 
 rm -rf .gitignore
 git clone https://github.com/FishPlusOrange/basis.git .temp

@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo Start installing .editorconfig...
+echo Start installing...
 
 rm -rf .editorconfig
 git clone https://github.com/FishPlusOrange/basis.git .temp
